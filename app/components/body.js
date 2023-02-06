@@ -24,7 +24,6 @@ export default function Body() {
           </View>
 
         </View>
-
       </View>
   );
 }
